@@ -1,0 +1,10 @@
+{
+    "fanart": [
+        {
+            "path": "test.png",
+            "desc": "The test artwork",
+            "artist": "PurpleInsomnia",
+            "social": "https://twitter.com/_purpleinsomnia"
+        }
+    ]
+}
