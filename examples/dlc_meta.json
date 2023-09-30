@@ -1,0 +1,13 @@
+{
+    "title": "NAME",
+    "description": "Haha default meta.",
+    "color": "0xFFFFFFFF",
+    "credits": [
+        {
+            "name": "PurpleInsomnia",
+            "info": "example",
+            "socialLink": "https://twitter.com/_purpleinsomnia",
+            "category": "programmer"
+        }
+    ]
+}
