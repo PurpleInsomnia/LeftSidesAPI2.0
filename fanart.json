@@ -1,10 +1,112 @@
 {
-    "fanart": [
+    "sections": [
         {
-            "path": "test.png",
-            "desc": "The test artwork",
-            "artist": "PurpleInsomnia",
-            "social": "https://twitter.com/_purpleinsomnia"
+            "name": "RampantDabbler",
+            "social": "https://twitter.com/RampantDabbler",
+            "fanart": [
+                {
+                    "path": "donuts.png",
+                    "desc": "Tess eating her favorite kind of donuts.",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "doodle-collage.png",
+                    "desc": "Collage of doodles made during exam week.",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "goth-gyatt.png",
+                    "desc": "Rampant's concept of a TGT Tess. (I love goth girls -Purple)",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "i-love-chubby-girls.png",
+                    "desc": "I LOVE CHUBBY GIRLS I LOVE CHUBBY GIRLS I LOVE FAT GIRLS",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "id-let-her-tie-me-up.png",
+                    "desc": "Yandre Tess. (I'd let her tie me up)",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "in-n-out.png",
+                    "desc": "Tess Warner",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "lullaby.png",
+                    "desc": "Rampant's take on Lullaby Tess from VOL 1.",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "rizz.png",
+                    "desc": "Ben rizzing up his wife.",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "so-please-please-please-letmegetwhatiwant.png",
+                    "desc": "They played minecraft :)",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "tess-n-bsides.png",
+                    "desc": "Tess and (everyone who thinks Tess would be besites with) B-Sides GF.",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                },
+                {
+                    "path": "ice-cream.png",
+                    "desc": "3",
+                    "artist": "RampantDabbler",
+                    "social": ""
+                }
+            ]
+        },
+        {
+            "name": "matyart",
+            "social": "https://twitter.com/MatiTt4",
+            "fanart": [
+                {
+                    "path": "front-page.png",
+                    "desc": "A Ben And Tess drawing for a front page pf the mod",
+                    "artist": "matyart",
+                    "social": ""
+                },
+                {
+                    "path": "logo.png",
+                    "desc": "A fan-made logo for the mod",
+                    "artist": "matyart",
+                    "social": ""
+                },
+                {
+                    "path": "mati-doodles.png",
+                    "desc": "Ben and Tess doodles",
+                    "artist": "matyart",
+                    "social": ""
+                }
+            ]
+        },
+        {
+            "name": "Trixy",
+            "social": "https://twitter.com/tricky_fnf",
+            "fanart": [
+                {
+                    "path": "freaky-real.png",
+                    "desc": "what if real guy was freaky...",
+                    "artist": "trixy",
+                    "social": ""
+                }
+            ]
         }
     ]
 }
