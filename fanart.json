@@ -63,12 +63,6 @@
                     "desc": "Tess and (everyone who thinks Tess would be besites with) B-Sides GF.",
                     "artist": "RampantDabbler",
                     "social": ""
-                },
-                {
-                    "path": "ice-cream.png",
-                    "desc": "3",
-                    "artist": "RampantDabbler",
-                    "social": ""
                 }
             ]
         },
@@ -104,6 +98,18 @@
                     "path": "freaky-real.png",
                     "desc": "what if real guy was freaky...",
                     "artist": "trixy",
+                    "social": ""
+                }
+            ]
+        },
+        {
+            "name": "DampantRabbler",
+            "social": "https://twitter.com/RampantDabbler",
+            "fanart": [
+                {
+                    "path": "ice-cream.png",
+                    "desc": "3",
+                    "artist": "RampantDabbler",
                     "social": ""
                 }
             ]
