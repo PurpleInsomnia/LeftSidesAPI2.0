@@ -7,62 +7,94 @@
                 {
                     "path": "donuts.png",
                     "desc": "Tess eating her favorite kind of donuts.",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "doodle-collage.png",
                     "desc": "Collage of doodles made during exam week.",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "goth-gyatt.png",
                     "desc": "Rampant's concept of a TGT Tess. (I love goth girls -Purple)",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "i-love-chubby-girls.png",
                     "desc": "I LOVE CHUBBY GIRLS I LOVE CHUBBY GIRLS I LOVE FAT GIRLS",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "id-let-her-tie-me-up.png",
                     "desc": "Yandre Tess. (I'd let her tie me up)",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "in-n-out.png",
                     "desc": "Tess Warner",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "lullaby.png",
                     "desc": "Rampant's take on Lullaby Tess from VOL 1.",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "rizz.png",
                     "desc": "Ben rizzing up his wife.",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "so-please-please-please-letmegetwhatiwant.png",
                     "desc": "They played minecraft :)",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "tess-n-bsides.png",
                     "desc": "Tess and (everyone who thinks Tess would be besites with) B-Sides GF.",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
+                },
+                {
+                    "path": "benntess-doodles-return.png",
+                    "desc": "The return of the doodle account",
+                    "other-parms": {}
+                },
+                {
+                    "path": "tess-heart-hands.png",
+                    "desc": "Tess heart hands.",
+                    "other-parms": {}
+                },
+                {
+                    "path": "tess-pride.png",
+                    "desc": "Tess shows off her pride, y'know, for pride month. (Yes, she's canonically bi. -Purple)",
+                    "other-parms": {}
+                },
+                {
+                    "path": "tess-sits-like-a-chair.png",
+                    "desc": "Where did he go?",
+                    "other-parms": {}
+                }
+            ]
+        },
+        {
+            "name": "aangelic111",
+            "social": "https://x.com/aangelic111",
+            "fanart": [
+                {
+                    "path": "wife save me.png",
+                    "desc": "(Guys, my wife made this! <3 -Purple)",
+                    "other-parms": {}
+                }
+            ]
+        },
+        {
+            "name": "JustBSidesGF",
+            "social": "https://twitter.com/JustBsidesGF",
+            "fanart": [
+                {
+                    "path": "jbg-tess.png",
+                    "desc": "Tess",
+                    "other-parms": {}
                 }
             ]
         },
@@ -73,20 +105,28 @@
                 {
                     "path": "front-page.png",
                     "desc": "A Ben And Tess drawing for a front page pf the mod",
-                    "artist": "matyart",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "logo.png",
                     "desc": "A fan-made logo for the mod",
-                    "artist": "matyart",
-                    "social": ""
+                    "other-parms": {}
                 },
                 {
                     "path": "mati-doodles.png",
                     "desc": "Ben and Tess doodles",
-                    "artist": "matyart",
-                    "social": ""
+                    "other-parms": {}
+                }
+            ]
+        },
+        {
+            "name": "RetroSkulls1225",
+            "social": "https://twitter.com/retroskulls1225",
+            "fanart": [
+                {
+                    "path": "rs-art.png",
+                    "desc": "Ben & Tess In a Gradient Void with their Signature Colors :3",
+                    "other-parms": {}
                 }
             ]
         },
@@ -97,8 +137,18 @@
                 {
                     "path": "freaky-real.png",
                     "desc": "what if real guy was freaky...",
-                    "artist": "trixy",
-                    "social": ""
+                    "other-parms": {}
+                }
+            ]
+        },
+        {
+            "name": "BerkWannaGoHome",
+            "social": "https://twitter.com/BerkWannaGoHome",
+            "fanart": [
+                {
+                    "path": "berk1.png",
+                    "desc": "Tess doing the peace sign in a purpleish gray background, her name being sliced and the colors on the name being dark purple and purple.",
+                    "other-parms": {}
                 }
             ]
         },
@@ -109,8 +159,7 @@
                 {
                     "path": "ice-cream.png",
                     "desc": "3",
-                    "artist": "RampantDabbler",
-                    "social": ""
+                    "other-parms": {}
                 }
             ]
         }
