@@ -153,6 +153,27 @@
             ]
         },
         {
+            "name": "HankKD7",
+            "social": "https://twitter.com/HankKD7",
+            "fanart": [
+                {
+                    "path": "monster-conpuper.png",
+                    "desc": "The Monster taking over a laptop back in the good ol' VOL 1 days. (I hate vol 1 -Purple)",
+                    "otherParms": {}
+                },
+                {
+                    "path": "vitreous.png",
+                    "desc": "PurpleInsomnia's mascot, Vitreous.",
+                    "otherParms": {}
+                },
+                {
+                    "path": "le-monster.png",
+                    "desc": "The Monster!!!! The Monster is real!!!!",
+                    "otherParms": {}
+                }
+            ]
+        },
+        {
             "name": "DampantRabbler",
             "social": "https://twitter.com/RampantDabbler",
             "fanart": [
